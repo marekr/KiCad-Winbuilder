@@ -197,6 +197,7 @@ copystuff() {
         "libnghttp2*dll" \
         "libunistring-2.dll" \
         "libreadline7.dll" \
+        "libbrotli*.dll" \
         "libtermcap-0.dll" )
 
     #echo Copying kicad binaries and stuff...
